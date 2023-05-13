@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\Udemy\C#  Udemy\Lógica de Programação\Projetos\2-Estrutura Condicional\Exercícios Propostos\BeeCrowd1046\bin\Debug\net6.0\BeeCrowd1046.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\Udemy\C#  Udemy\Lógica de Programação\Projetos\2-Estrutura Condicional\Exercícios Propostos\BeeCrowd1046\bin\Debug\net6.0\BeeCrowd1046.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\Udemy\C#  Udemy\Lógica de Programação\Projetos\2-Estrutura Condicional\Exercícios Propostos\BeeCrowd1046\bin\Debug\net6.0\BeeCrowd1046.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\Udemy\C#  Udemy\Lógica de Programação\Projetos\2-Estrutura Condicional\Exercícios Propostos\BeeCrowd1046\bin\Debug\net6.0\BeeCrowd1046.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\Udemy\C#  Udemy\Lógica de Programação\Projetos\2-Estrutura Condicional\Exercícios Propostos\BeeCrowd1046\bin\Debug\net6.0\BeeCrowd1046.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\Udemy\C#  Udemy\Lógica de Programação\Projetos\2-Estrutura Condicional\Exercícios Propostos\BeeCrowd1046\obj\Debug\net6.0\BeeCrowd1046.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\Udemy\C#  Udemy\Lógica de Programação\Projetos\2-Estrutura Condicional\Exercícios Propostos\BeeCrowd1046\obj\Debug\net6.0\BeeCrowd1046.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\Udemy\C#  Udemy\Lógica de Programação\Projetos\2-Estrutura Condicional\Exercícios Propostos\BeeCrowd1046\obj\Debug\net6.0\BeeCrowd1046.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\Udemy\C#  Udemy\Lógica de Programação\Projetos\2-Estrutura Condicional\Exercícios Propostos\BeeCrowd1046\obj\Debug\net6.0\BeeCrowd1046.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\Udemy\C#  Udemy\Lógica de Programação\Projetos\2-Estrutura Condicional\Exercícios Propostos\BeeCrowd1046\obj\Debug\net6.0\BeeCrowd1046.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\Udemy\C#  Udemy\Lógica de Programação\Projetos\2-Estrutura Condicional\Exercícios Propostos\BeeCrowd1046\obj\Debug\net6.0\BeeCrowd1046.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\Udemy\C#  Udemy\Lógica de Programação\Projetos\2-Estrutura Condicional\Exercícios Propostos\BeeCrowd1046\obj\Debug\net6.0\refint\BeeCrowd1046.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\Udemy\C#  Udemy\Lógica de Programação\Projetos\2-Estrutura Condicional\Exercícios Propostos\BeeCrowd1046\obj\Debug\net6.0\BeeCrowd1046.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\Udemy\C#  Udemy\Lógica de Programação\Projetos\2-Estrutura Condicional\Exercícios Propostos\BeeCrowd1046\obj\Debug\net6.0\BeeCrowd1046.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\Udemy\C#  Udemy\Lógica de Programação\Projetos\2-Estrutura Condicional\Exercícios Propostos\BeeCrowd1046\obj\Debug\net6.0\ref\BeeCrowd1046.dll
